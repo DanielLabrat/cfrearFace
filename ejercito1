@@ -1,0 +1,30 @@
+========IDENTIFY FACES========
+
+Create a person group (3972c063-71b3-4328-8579-6d190ee76f99).
+Create a person group person 'Family1-Dad'.
+Add face to the person group person(Family1-Dad) from image `Family1-Dad1.jpg`
+Add face to the person group person(Family1-Dad) from image `Family1-Dad2.jpg`
+Create a person group person 'Family1-Mom'.
+Add face to the person group person(Family1-Mom) from image `Family1-Mom1.jpg`
+Add face to the person group person(Family1-Mom) from image `Family1-Mom2.jpg`
+Create a person group person 'Family1-Son'.
+Add face to the person group person(Family1-Son) from image `Family1-Son1.jpg`
+Add face to the person group person(Family1-Son) from image `Family1-Son2.jpg`
+Create a person group person 'Family1-Daughter'.
+Create a person group person 'Family2-Lady'.
+Add face to the person group person(Family2-Lady) from image `Family2-Lady1.jpg`
+Add face to the person group person(Family2-Lady) from image `Family2-Lady2.jpg`
+Create a person group person 'Family2-Man'.
+Add face to the person group person(Family2-Man) from image `Family2-Man1.jpg`
+Add face to the person group person(Family2-Man) from image `Family2-Man2.jpg`
+
+Train person group 3972c063-71b3-4328-8579-6d190ee76f99.
+Training status: Succeeded.
+
+4 face(s) with 4 having sufficient quality for recognition detected from image `identification1.jpg`
+Person 'Family1-Dad' is identified for face in: identification1.jpg - 994bfd7a-0d8f-4fae-a5a6-c524664cbee7, confidence: 0.96725.
+Person 'Family1-Mom' is identified for face in: identification1.jpg - 0c9da7b9-a628-429d-97ff-cebe7c638fb5, confidence: 0.96921.
+No person is identified for face in: identification1.jpg - a881259c-e811-4f7e-a35e-a453e95ca18f,
+Person 'Family1-Son' is identified for face in: identification1.jpg - 53772235-8193-46eb-bdfc-1ebc25ea062e, confidence: 0.92886.
+
+End of quickstart.
